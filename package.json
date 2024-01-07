@@ -12,7 +12,7 @@
         "type": "git",
         "url": "git+https://github.com/sarahglassseeen/Zero-Mod.git"
     },
-    "author": "D-Jukie",
+    "author": "Zero",
     "license": "GPL-3.0",
     "dependencies": {
         "simple-youtube-api": "",
